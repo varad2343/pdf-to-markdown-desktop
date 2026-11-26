@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+scratch/
+*Extracted/
+RBT-*/
+*.zip
